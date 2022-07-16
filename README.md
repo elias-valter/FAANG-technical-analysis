@@ -1,1 +1,1 @@
-# FAANG-stock-analysis
+# AMZN stock analysis
